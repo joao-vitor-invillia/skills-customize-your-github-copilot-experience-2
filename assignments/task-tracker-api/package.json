@@ -1,0 +1,13 @@
+{
+  "name": "task-tracker-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter project for the Task Tracker API assignment",
+  "main": "starter-code.js",
+  "scripts": {
+    "start": "node starter-code.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "task-tracker-api",
+      "title": "Task Tracker API",
+      "description": "Build a REST API with Node.js and Express",
+      "path": "assignments/task-tracker-api",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.js",
+          "type": "javascript"
+        },
+        {
+          "name": "Node.js Project Configuration",
+          "file": "package.json",
+          "type": "json"
+        }
+      ]
     }
   ]
 }
