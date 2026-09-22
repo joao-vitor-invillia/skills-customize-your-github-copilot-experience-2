@@ -1,12 +1,12 @@
-# 📘 Assignment: Hangman Game
+# 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-Build a classic word-guessing game in Python using strings, loops, conditionals, and user input. The student will practice managing game state and providing clear feedback during gameplay.
+Crie um jogo da forca em Python usando strings, loops, condicionais e entrada do usuário. O aluno praticará o controle do estado do jogo e a comunicação clara de feedback durante a partida.
 
-## 📝 Tasks
+## 📝 Tarefas
 
-### 🛠️ Select a Random Word and Show Progress
+### 🛠️ Selecionar uma palavra aleatória e mostrar o progresso
 
 #### Descrição
 Crie a configuração inicial do jogo escolhendo uma palavra oculta de uma lista predefinida e mostrando o progresso atual para o jogador com espaços em branco para cada letra.
@@ -19,7 +19,7 @@ O programa concluído deve:
 - Manter um registro das letras já tentadas.
 - Solicitar uma letra ao usuário e mostrar o estado atual do jogo.
 
-### 🛠️ Manage Guesses and End the Game
+### 🛠️ Gerenciar tentativas e encerrar a partida
 
 #### Descrição
 Implemente a lógica principal do jogo para que o jogador continue adivinhando letras, atualize o progresso da palavra e encerre a partida quando vencer ou perder.
