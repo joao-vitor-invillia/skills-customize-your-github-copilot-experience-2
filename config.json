@@ -77,6 +77,30 @@
           "type": "json"
         }
       ]
+    },
+    {
+      "id": "testing-node-api",
+      "title": "Testando uma API Node.js",
+      "description": "Write automated tests for a Node.js and Express API",
+      "path": "assignments/testing-node-api",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "API Implementation",
+          "file": "app.js",
+          "type": "javascript"
+        },
+        {
+          "name": "Test Starter",
+          "file": "test/api.test.js",
+          "type": "javascript"
+        },
+        {
+          "name": "Node.js Project Configuration",
+          "file": "package.json",
+          "type": "json"
+        }
+      ]
     }
   ]
 }

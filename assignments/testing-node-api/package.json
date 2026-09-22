@@ -1,0 +1,13 @@
+{
+  "name": "testing-node-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter project for the Testing a Node.js API assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
